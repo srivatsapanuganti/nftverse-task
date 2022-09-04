@@ -24,7 +24,7 @@ const Sidebar = () => {
                 <ul>
 
                 <li>
-                        <a className='menu-item'>
+                        <a className='menu-item' href='/'>
                             <div className='menu-icon'>
                             <i className="bi bi-person-circle"></i>
                             </div>
@@ -32,7 +32,7 @@ const Sidebar = () => {
                     </li>
 
                     <li>
-                        <a className='menu-item'>
+                        <a className='menu-item' href='/'>
                             <div className='menu-icon'>
                             <i className="bi bi-chat-quote-fill"></i>
                             </div>
@@ -40,7 +40,7 @@ const Sidebar = () => {
                     </li>
 
                     <li>
-                        <a className='menu-item'>
+                        <a className='menu-item' href='/'>
                             <div className='menu-icon'>
                             <i className="bi bi-circle"></i>
                             </div>
@@ -48,7 +48,7 @@ const Sidebar = () => {
                     </li>
 
                     <li>
-                        <a className='menu-item'>
+                        <a className='menu-item' href='/'>
                             <div className='menu-icon'>
                             <i className="bi bi-app"></i>
                             </div>
@@ -56,7 +56,7 @@ const Sidebar = () => {
                     </li>
 
                     <li>
-                        <a className='menu-item'>
+                        <a className='menu-item' href='/'>
                             <div className='menu-icon'>
                             <i className="bi bi-display"></i>
                             </div>
@@ -64,7 +64,7 @@ const Sidebar = () => {
                     </li>
 
                     <li>
-                        <a className='menu-item'>
+                        <a className='menu-item' href='/'>
                             <div className='menu-icon'>
                             <i className="bi bi-github"></i>
                             </div>
@@ -72,7 +72,7 @@ const Sidebar = () => {
                     </li>
 
                     <li>
-                        <a className='menu-item'>
+                        <a className='menu-item' href='/'>
                             <div className='menu-icon'>
                             <i className="bi bi-google"></i>
                             </div>
@@ -82,7 +82,7 @@ const Sidebar = () => {
 
                     {/*
                     <li>
-                        <a className='menu-item'>
+                        <a className='menu-item' href='/'>
                             <div className='menu-icon'>
                             <i className="bi bi-person"></i>
                             </div>
